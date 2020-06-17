@@ -1,4 +1,4 @@
-# Intro-to-Deep-Learning
+# Intro to Deep Learning
    This repository contains some important topics for deep networks such as:
 1. Architecture of networks, different layers with their functionalities, CNN for images and text, RNN for text generations andtaging
 2. Challenges of training deep networks such as ill_conditioned data, vanishing/exploding gradient and how to deal with them
