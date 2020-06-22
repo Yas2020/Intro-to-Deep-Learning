@@ -6,4 +6,5 @@
 4. Build CNN for image classification. 
 5. Fine tune heavy pretrained model (with over 22 million params) to adapt it for the task in hand such as classification. 
 6. Several amazing uses of Autoencoders for images such as dimensionality reduction, image search, denoising, greating new images ects.
-7. 
+7. Implemnet an simple RRN network using NumPy and train it as a language model and compare it with other RNN layers in Keras
+8. Images captioning with an encoder-decoder architecture using InceptionV3 for CNN its encoder and LSTM for its decoder.  
